@@ -54,3 +54,7 @@ _deps
 
 # Build floder
 build/
+
+
+# VS Code configuration
+.vscode/
